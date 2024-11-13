@@ -43,13 +43,6 @@ This game is implemented using the following main functions:
 - Provides real-time feedback for each round.
 - Keeps track of scores and declares the winner at the end.
 
-## 🏆 Future Improvements
-
-Some potential enhancements include:
-- Adding input validation for player choices.
-- Creating a graphical user interface (GUI) for a better user experience.
-- Implementing a play-again option.
-
 ## 📝 License
 
 This project is open-source and available for anyone to use or modify.
