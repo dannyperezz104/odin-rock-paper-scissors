@@ -59,7 +59,3 @@ Some potential enhancements include:
 ## 📝 License
 
 This project is open-source and available for anyone to use or modify.
-
----
-
-This README should give your project a polished look and provide clear guidance for users!
