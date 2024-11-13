@@ -1,9 +1,3 @@
-# odin-rock-paper-scissors
-
-Here's a polished and well-structured README for your JavaScript game:
-
----
-
 # Rock, Paper, Scissors Game
 
 Welcome to the **Rock, Paper, Scissors** game, built with JavaScript! Challenge the computer and see if you can beat it in a classic best-of-5 showdown!
