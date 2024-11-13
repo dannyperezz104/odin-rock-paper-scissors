@@ -57,7 +57,6 @@ function playGame(){
                 humanScore++;
             } else {
                 console.log("Computer chose Scissors. You tied!");
-                computerScore++;
             }
         }
     }
@@ -84,8 +83,10 @@ function playGame(){
 
     if (humanScore > computerScore){
         console.log(`You win!\nYour score: ${humanScore}\nComputer score: ${computerScore}`)
-    } else{
+    } else if(humanScore < computerScore){
         console.log(`You lose!\nYour score: ${humanScore}\nComputer score: ${computerScore}`)
+    } else{
+        console.log(`You tied!\nYour score: ${humanScore}\nComputer score: ${computerScore}`);
     }
 }
 
